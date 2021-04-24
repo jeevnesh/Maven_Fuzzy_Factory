@@ -49,11 +49,11 @@ GROUP BY repeat_sessions
 ORDER BY repeat_sessions;
 
 /*
-repeat_sessions     users
-0					126813
-1					14086
-2					315
-3					4686
+repeat_sessions        users
+0	 	        126813
+1			14086
+2			315
+3			4686
 */
 
 -- ASSIGNMET 2 (2014-11-03)
@@ -120,7 +120,7 @@ FROM
     
 /*
 avg_days_first_to_second    min_days_first_to_second     max_days_first_to_second
-33.2498							1							69
+33.2498				1				69
 */
 
 -- ASSIGNMENT-3 (2014-11-05)
@@ -159,10 +159,10 @@ ORDER BY
 /*
 channel_group	 new_sessions	 repeat_sessions
 organic_search		7139			11507
-paid_brand			6432			11027
+paid_brand		6432			11027
 direct_type_in		6591			10564
 paid_nonbrand		119950			0
-paid_social			7652			0
+paid_social		7652			0
 */
 
 -- ASSIGNMENT-4 (2014-11-08)
@@ -190,7 +190,7 @@ WHERE
 GROUP BY is_repeat_session;
     
 /*
-is_repeat_session  sessions	  orders  	 conv_rate	 rev_per_session
-0					149787		10179		0.0680		4.343754
-1					33577		2724		0.0811		5.168828
+is_repeat_session  	sessions	orders  	conv_rate	rev_per_session
+0	    	        149787		10179		0.0680		4.343754
+1			33577		2724		0.0811		5.168828
 */
