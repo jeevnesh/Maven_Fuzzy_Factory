@@ -9,3 +9,7 @@
 ## Tracking paid Marketing using UTM parameters
 
 <img width=100%  src="https://github.com/jeevnesh/MySQL/blob/main/1.Analyzing%20Traffic%20Source/UTM%20Tracking%20Parameter.png" />
+
+## Traffic source Bid Optimization
+
+<img width=100%  src="https://github.com/jeevnesh/MySQL/blob/main/1.Analyzing%20Traffic%20Source/Traffic%20Source%20Bid%20Optimization.png" />
